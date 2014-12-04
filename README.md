@@ -29,7 +29,7 @@ Note: If you want to use `onContentChanged()` on this one, replace it with `onSu
 All of this code is slightly modified from the Android Open Source Project. I used the following files:
 
 [ListActivity.java](https://github.com/android/platform_frameworks_base/blob/android-4.3_r1/core/java/android/app/ListActivity.java)
-
+```
  Copyright (C) 2006 The Android Open Source Project
 
  Licensed under the Apache License, Version 2.0 (the "License");
@@ -43,9 +43,9 @@ All of this code is slightly modified from the Android Open Source Project. I us
  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  See the License for the specific language governing permissions and
  limitations under the License.
-
+```
 [list_content.xml](https://github.com/android/platform_frameworks_base/blob/master/core/res/res/layout/list_content.xml)
-
+```
 Copyright 2010, The Android Open Source Project
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -59,3 +59,4 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+```
