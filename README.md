@@ -1,4 +1,4 @@
-android-support-listactivity
+AppCompatFragmentListActivity
 ============================
 
 ListActivity for the Support Library and AppCompat.
