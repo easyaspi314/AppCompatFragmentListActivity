@@ -24,7 +24,7 @@ Note: If you want to use `onContentChanged()` on this one, replace it with `onSu
 
 ####Notice:####
 
-All of this code is from the Android Open Source Project. I used the following files:
+All of this code is slightly modified from the Android Open Source Project. I used the following files:
 
 [ListActivity.java](https://github.com/android/platform_frameworks_base/blob/android-4.3_r1/core/java/android/app/ListActivity.java)
 ```java
