@@ -22,6 +22,8 @@ public class Bar extends ActionBarListActivity {
 ```
 Note: If you want to use `onContentChanged()` on this one, replace it with `onSupportContentChanged()`. This only applies to ActionBarListActivity (and ActionBarActivity).
 
+#####Goes good with other AppCompat/SupportLib extensions, especially [android-support-v4-preferencefragment](https://github.com/kolavar/android-support-v4-preferencefragment)
+
 ####Notice:####
 
 All of this code is slightly modified from the Android Open Source Project. I used the following files:
